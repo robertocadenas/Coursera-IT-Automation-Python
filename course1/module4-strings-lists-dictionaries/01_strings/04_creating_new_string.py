@@ -42,10 +42,6 @@ pets.index("x")
 #This will throw an error
 '''
 
-pets="Cats & Dogs"
-"Dragons" in pets
-"Cats" in pets
-
 # Other Pet message
 print("\nOther Pet Message")
 
