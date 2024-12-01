@@ -6,7 +6,7 @@ print("string operations")
 
 # len(string)
 print("\nlen(string)")
-print(len("abcde"))  # prints 5
+print(    len("abcde"))  # prints 5
 
 # for character in string - Iterates over each character in the string
 print("\nfor character in string")

@@ -6,7 +6,7 @@ basket = [
     ("Pears", 5.0, 1.66),
     ("Plums", 2.5, 3.99)
 ]
-
+ 
 
 # Calculate the total price for each item (weight times price per pound)
 # and add them up to get a subtotal.
